@@ -9,7 +9,7 @@ Passionate about data, business intelligence and transforming datasets into acti
 - 📈 Interested in Data Visualization, Business Analytics and Artificial Intelligence
 - 🧠 Learning more about Machine Learning, Cloud technologies and Data Strategy
 - 🌱 Always curious and eager to improve my analytical and technical skills
-- ⚡ Fun fact: I enjoy discovering trends hidden inside data and turning numbers into stories
+- ⚡ Fun fact : I enjoy discovering trends hidden inside data and turning numbers into stories
 
 ---
 
